@@ -21,10 +21,11 @@ Designed to be fast, customizable, and easy to integrate into any HTML page.
 Add the following code to **any website**, ideally at the bottom of the `<body>` tag:
 ***This is for testing purpose only and don't use it for production***
 
+**make sure to change data-user string for new conversation data-user="random-conversation-id"**
 ```html
 <script 
     src="https://satyamsingh8306.github.io/bookish-engine/public/widget.js?v=1"
-    data-user="USER123"
+    data-user="USER199"
     data-client="satyam"
     data-api="https://bookish-engine-oe9s.onrender.com"
     async>
