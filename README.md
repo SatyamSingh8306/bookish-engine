@@ -19,13 +19,14 @@ Designed to be fast, customizable, and easy to integrate into any HTML page.
 ## 📦 Installation / Integration
 
 Add the following code to **any website**, ideally at the bottom of the `<body>` tag:
+***This is for testing purpose only and don't use it for production***
 
 ```html
 <script 
     src="https://satyamsingh8306.github.io/bookish-engine/public/widget.js?v=1"
     data-user="USER123"
-    data-client="Satyam"
-    data-api="https://your-backend-url.com"
+    data-client="satyam"
+    data-api="https://bookish-engine-oe9s.onrender.com"
     async>
 </script>
 ````
@@ -159,10 +160,8 @@ This project is open-source under the **MIT License**.
 ---
 
 ## 📌 Project Status
+- ✅Active
+- ✅ Fully working
+- ✅ Suitable for integration into real websites
 
-✅ Active
-✅ Fully working
-✅ Suitable for integration into real websites
-
-
-
+---
