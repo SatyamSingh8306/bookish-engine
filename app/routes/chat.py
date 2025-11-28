@@ -1,6 +1,7 @@
 from fastapi import APIRouter, Depends, HTTPException,status
 from pydantic import BaseModel
 from app.services.ai_chat import ChatServiceProvider
+from app.services.agentic_chat import AgenticChat
 from app.dependencies import verify_secret
 
 class ChatRequest(BaseModel):
@@ -16,10 +17,18 @@ class PromptRequest(BaseModel):
 router = APIRouter()
 
 _chat_service = ChatServiceProvider()
+_agent_chat = AgenticChat()
 
 @router.post("/chat")
 async def chat(request : ChatRequest):
     response = _chat_service.chat(user_id=request.userid,client_id=request.clientid,query=request.query)
+    return {
+        "reply": response
+    }
+
+@router.post("/agent-chat")
+async def chat_agent(request : ChatRequest):
+    response = await _agent_chat.chat(user_id=request.userid,client_id=request.clientid,query=request.query)
     return {
         "reply": response
     }

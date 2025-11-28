@@ -3,3 +3,5 @@ langchain-groq
 redis
 fastapi[standard]
 uvicorn
+langchain
+beautifulsoup4

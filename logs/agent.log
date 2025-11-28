@@ -1,0 +1,116 @@
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:['{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": null}', '{"role": "user", "content": "Hii dude"}', '{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": "Hey there! \\ud83d\\udc4b How can I help you today?"}']
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:['{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": null}', '{"role": "user", "content": "Hii dude"}', '{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": "Hey there! \\ud83d\\udc4b How can I help you today?"}']
+INFO:root:System prompt imported.....
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:['{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": null}', '{"role": "user", "content": "Hii dude"}', '{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": "Hey there! \\ud83d\\udc4b How can I help you today?"}']
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:['{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": null}', '{"role": "user", "content": "Hii dude"}', '{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": "Hey there! \\ud83d\\udc4b How can I help you today?"}']
+INFO:root:System prompt imported.....
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:['{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": null}', '{"role": "user", "content": "Hii dude"}', '{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": "Hey there! \\ud83d\\udc4b How can I help you today?"}']
+INFO:root:System prompt imported.....
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:['{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": null}', '{"role": "user", "content": "Hii dude"}', '{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": "Hey there! \\ud83d\\udc4b How can I help you today?"}']
+INFO:root:System prompt imported.....
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:['{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": null}', '{"role": "user", "content": "Hii dude"}', '{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": "Hey there! \\ud83d\\udc4b How can I help you today?"}']
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:['{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": null}', '{"role": "user", "content": "Hii dude"}', '{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": "Hey there! \\ud83d\\udc4b How can I help you today?"}']
+INFO:root:System prompt imported.....
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:['{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": null}', '{"role": "user", "content": "Hii dude"}', '{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": "Hey there! \\ud83d\\udc4b How can I help you today?"}']
+INFO:root:System prompt imported.....
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:['{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": null}', '{"role": "user", "content": "Hii dude"}', '{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": "Hey there! \\ud83d\\udc4b How can I help you today?"}']
+INFO:root:System prompt imported.....
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:['{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": null}', '{"role": "user", "content": "Hii dude"}', '{"role": "user", "content": "Hii dude"}', '{"role": "assistant", "content": "Hey there! \\ud83d\\udc4b How can I help you today?"}']
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:agent:Agent Chat Initialised
+INFO:agent:Agent Chat Initialised
+INFO:agent:Agent Chat Initialised
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:chat history imported
+INFO:root:[]
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:[]
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:chat history imported
+INFO:root:[]
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:[]
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:chat history imported
+INFO:root:['{"role": "assistant", "text": "Hello! \\ud83d\\udc4b How can I help you today?"}']
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:chat history imported
+INFO:root:['{"role": "assistant", "text": "Hello! \\ud83d\\udc4b How can I help you today?"}', '{"role": "assistant", "text": "Sure thing! Why don\\u2019t skeletons fight each other?  \\n\\nThey don\\u2019t have the guts. \\ud83d\\ude04  \\n\\nLet me know if you need anything else\\u2014happy to help!"}']
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:[]
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+ERROR:agent:StructuredTool does not support sync invocation.
+INFO:agent:Agent Chat Initialised
+INFO:agent:Agent Chat Initialised
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:[]
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+ERROR:agent:StructuredTool does not support sync invocation.
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:[]
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+ERROR:agent:No module named 'bs4'
+INFO:agent:Agent Chat Initialised
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:[]
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:chat history imported
+INFO:root:['{"role": "assistant", "text": "**Satyam Singh \\u2013 Portfolio Overview**\\n\\n| Section | Highlights |\\n|---------|------------|\\n| **About Me** | \\u2022 B.Tech student (CSE) at NIT\\u202fNagaland, CGPA\\u202f9.85.<br>\\u2022 AI/ML Engineer with 2 PyPI libraries (Unified\\u202fXAI, DataCleanerX).<br>\\u2022 Experienced in building production\\u2011grade AI agents, RAG systems, and multimodal apps using LangChain, FastAPI, and modern ML frameworks.<br>\\u2022 Passionate about autonomous, agentic architectures and scalable cloud deployments. |\\n| **Startup \\u2013 AetherMind** | \\u2022 Founder & CEO of a startup focused on AI\\u2011powered business automation.<br>\\u2022 Offers autonomous AI agents, workflow automation, and scaling solutions to streamline operations and boost productivity. |\\n| **Experience** | \\u2022 **Software Development Intern \\u2013 Sasefied** (Apr\\u202f2025\\u2011present): Built a FastAPI\\u2011based resume\\u2011generation platform, GPT\\u20113 chatbot, and analytics dashboards.<br>\\u2022 **AI Intern \\u2013 Foodnest Technology** (Jun\\u2011Jul\\u202f2025): Developed a 3\\u2011tier hierarchical agentic system that processes 1,800\\u202fdocs/min with 95\\u202f% accuracy, supporting multiple file types and VLMs.<br>\\u2022 **AI Intern \\u2013 Suvidha Foundation** (Apr\\u202f2025\\u2011present): Researching LLM applications in legal tech (LegalXRT).<br>\\u2022 **AI Intern \\u2013 Edunet Foundation** (Apr\\u202f2025\\u2011present): Working on real\\u2011world AI problems under an AICTE\\u2011endorsed program. |\\n| **Skills** | \\u2022 **Languages**: Python, JavaScript, TypeScript, Java, C, HTML/CSS.<br>\\u2022 **Web**: React, Next.js, Node.js, Express, Flask, FastAPI, Tailwind, MongoDB.<br>\\u2022 **ML/AI**: TensorFlow, PyTorch, Scikit\\u2011learn, LangChain, LLMs, RAG, Vision\\u2011Language Models, AI agents.<br>\\u2022 **Tools**: Docker, GitHub Actions, CI/CD, Postman, Render, Supabase, Redis.<br>\\u2022 **Certifications**: IBM ML, Infosys Springboard, Google ML Crash Course, HuggingFace AI Agent Course, etc. |\\n| **Projects** | \\u2022 **Unified\\u202fXAI** \\u2013 Cross\\u2011framework explainable\\u2011AI library (PyPI).<br>\\u2022 **DataCleanerX** \\u2013 Automated ML preprocessing library (PyPI).<br>\\u2022 **Portfolio\\u2011Service** \\u2013 AI\\u2011driven automated portfolio deployment via FastAPI & LangChain.<br>\\u2022 **AURION** \\u2013 3D multimodal AI assistant with voice, persona switching, and tool integration.<br>\\u2022 **Medical Das / Das2.0** \\u2013 RAG\\u2011based medical chatbot and multimodal assistant.<br>\\u2022 **LawyerDas** \\u2013 Legal RAG chatbot with 3D UI.<br>\\u2022 **Web\\u2011UI Agent** \\u2013 Autonomous web\\u2011scraping & answering agent.<br>\\u2022 **MLOps & Analytics** \\u2013 Projects on customer satisfaction prediction, web analytics, and more.<br>\\u2022 **Various ML & Web Apps** \\u2013 Next\\u2011word predictor, people counter, credit scoring, movie recommender, spam classifier, car counter, todo app, Netflix clone, personal portfolio. |\\n| **Contact** | \\u2022 LinkedIn, GitHub, Email, Kaggle, Hugging Face links available. |\\n\\n**Bottom line:**  \\nSatyam Singh is a high\\u2011achieving CS student and AI engineer who has built multiple production\\u2011ready AI tools and libraries, led a startup focused on autonomous business automation, and has hands\\u2011on experience across web development, ML/AI, and cloud deployment. The portfolio showcases a blend of technical depth, practical projects, and entrepreneurial initiative."}']
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:chat history imported
+INFO:root:[]
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

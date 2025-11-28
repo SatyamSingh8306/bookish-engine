@@ -1,7 +1,10 @@
 from dotenv import load_dotenv
 load_dotenv()
 from os import getenv
+import os
 from fastapi import HTTPException,status
+
+os.environ['USER_AGENT'] = '1'
 
 GROQ_API_KEY = getenv("GROQ_API_KEY")
 SECRET_KEY = getenv("SECRET_KEY")
@@ -13,6 +16,8 @@ REDIS_PASSWORD = getenv("REDIS_PASSWORD")
 
 HOST = getenv("HOST","0.0.0.0")
 PORT = getenv("PORT",8000)
+
+TAVILY_API_KEY = getenv("TAVILY_API_KEY")
 
 mandatory = [GROQ_API_KEY, REDIS_HOST, REDIS_PORT, REDIS_PASSWORD]
 
