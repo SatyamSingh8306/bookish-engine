@@ -32,6 +32,14 @@ Add the following code to **any website**, ideally at the bottom of the `<body>`
 </script>
 ````
 
+***To test on local Server***
+
+```json
+<script src="http://localhost:3000/public/winget4.js" data-user="USER12" data-client="satyam"
+        data-api="http://localhost:8000" async>
+</script>
+```
+
 ### ✅ Parameters (data-attributes)
 
 | Attribute     | Description                                      |

@@ -5,3 +5,5 @@ fastapi[standard]
 uvicorn
 langchain
 beautifulsoup4
+langchain-community
+langchain-tavily

@@ -1,0 +1,5 @@
+INFO:agent:Agent Chat Initialised
+INFO:root:chat history imported
+INFO:root:[]
+INFO:root:System prompt imported.....
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
