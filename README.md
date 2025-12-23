@@ -39,7 +39,15 @@ Add the following code to **any website**, ideally at the bottom of the `<body>`
         data-api="http://localhost:8000" async>
 </script>
 ```
+----
+# ChatBot Informations
+| Js files      | chatbottpe they use                              |
+| ------------- | ------------------------------------------------ |
+| widget1.js    | Normal UI + LLM                                  |
+| widget4.js    | Agnt (Web Scrapping + Online Search)             |
+| rest js files | D/f UI + LLM                                     |
 
+---
 ### ✅ Parameters (data-attributes)
 
 | Attribute     | Description                                      |
